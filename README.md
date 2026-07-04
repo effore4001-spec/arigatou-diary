@@ -1,4 +1,4 @@
-# お母さんありがとう日記
+# ありがとう日記
 
 Standalone PWA package for the gratitude diary app.
 
