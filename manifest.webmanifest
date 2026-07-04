@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "お母さんありがとう日記",
+  "short_name": "ありがとう日記",
+  "description": "日々のありがとうを写真と一緒に残すためのスマホ日記アプリ。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fdf4f7",
+  "theme_color": "#fdf4f7",
+  "categories": ["lifestyle", "productivity"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
