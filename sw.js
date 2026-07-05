@@ -1,4 +1,4 @@
-const CACHE_NAME = "arigatou-diary-2026-07-04-v2";
+const CACHE_NAME = "arigatou-diary-2026-07-05-v3";
 const APP_SHELL = [
   "./",
   "./index.html",
